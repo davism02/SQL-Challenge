@@ -46,14 +46,14 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![Salary Histogram.png](EmployeeSQL/Salary Histogram.png)
+![Salary_Histogram.png](EmployeeSQL/Salary_Histogram.png)
 
 3. Create a bar chart of average salary by title.
 
-![Avg_Salary_Title_Bar.png](EmployeeSQL/sql.png)
-## Epilogue
+![Avg_Salary_Title_Bar.png](EmployeeSQL/Avg_Salary_Title_Bar.png)
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+
 ![emp.png](EmployeeSQL/emp.png)
 
 
