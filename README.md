@@ -8,7 +8,10 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
-1. Data Engineering
+1. Data Engineering![ERD]
+2. (https://user-images.githubusercontent.com/84879357/129497493-8d24a721-d529-4d18-a052-b9aa160f61be.png)
+
+2. 
 
 3. Data Analysis
 
