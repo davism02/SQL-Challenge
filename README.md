@@ -1,7 +1,5 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](EmployeeSQL/sql.png)
-
 ## Background
 
 As the newest data engineer at Pewlett Hackard, I have been tasked with researching employees of the coporation from the 1980s and 1990s using only the remaining six CSV files from those years. I must perform both Data Engineering and Data Analysis on the dataset. I have a sneaking suspicion that something isn't right here...
