@@ -4,8 +4,7 @@
 
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
+As the newest data engineer at Pewlett Hackard, I have been tasked with researching employees of the coporation from the 1980s and 1990s using only the remaining six CSV files from those years. I must perform both Data Engineering and Data Analysis on the dataset. I have a sneaking suspicion that something isn't right here...
 
 #### Data Engineering
 ![ERD.png](ERD.png)
@@ -57,13 +56,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 ## Submission
 
-* Create an image file of your ERD.
-
-* Create a `.sql` file of your table schemata.
-
-* Create a `.sql` file of your queries.
-
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
-
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
+* [Data Folder](EmployeeSQL/data): folder containing all CSVs that remain from 1980/1990 employee data
+* [schema_sql](EmployeeSQL/schema_sql): sql code used to create the table structures in the database
+* [queries_sql](EmployeeSQL/queries_sql): sql code used to query the database to answer the various questions
+* [Bonus Analysis](EmployeeSQL/Bonus_Analysis.ipynb): Jupyter Lab file that connects to database, pulls query results into dataframes, and creates various plots
